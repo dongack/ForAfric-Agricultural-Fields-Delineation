@@ -3,8 +3,9 @@ Instance Aware segmentation  of Agricultural Fields Using Mask R-CNN (Computer v
 
 <p align="center">
   <img width="400" src="images/agrifield2.jpg">
+  src: Google image
 </p>
-src: Google image
+
 ## Abstract
 This article aims to delimit agricultural field parcels from satellite images through deep learning for instance segmentation.
 Manual delineation is precise but time-consuming, and several automated approaches using traditional image segmentation techniques are struggling to capture the variety of possible appearances in the field.
@@ -17,8 +18,8 @@ In addition, the methodology offers many opportunities for improvement.
 
 <p align="center">
   <img width="500" src="images/train_predict.jpg">
+  Src: Chrieke github
 </p>
-Src: Chrieke github
 ## Results
 
 <p align="center">
