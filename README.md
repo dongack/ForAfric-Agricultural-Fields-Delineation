@@ -31,9 +31,9 @@ In addition, the methodology offers many opportunities for improvement.
 our Dataset as indicated in the preprint article. You can apply it to any RGB image with a shapefile containing the field geometries.
 For more details about the preprocessing, follow this link (Chrieke Master thesis - it is the main documentation for this project) : https://github.com/chrieke/InstanceSegmentation_Sentinel2
 
--The "dataset.py" file contains the python code allowing the model to read our training data.
+- The "dataset.py" file contains the python code allowing the model to read our training data.
 
--The program_Project_Forafric file contains all the documented code lines to train the model, evaluate it and make agricultural fields predictions
+- The program_Project_Forafric file contains all the documented code lines to train the model, evaluate it and make agricultural fields predictions
 
 ### 2. How to execute !
 It is better to Use google colab, open the program_Project_Project_Forafric.ipynb folder and follow the instructions.
