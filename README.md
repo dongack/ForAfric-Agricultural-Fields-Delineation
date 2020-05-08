@@ -1,4 +1,4 @@
-# ForAfric-Agricultural-Fields-Delineation
+# ForAfric-Deep-Learning-For-Agricultural-Fields-Delineation
 Instance Aware segmentation  of Agricultural Fields Using Mask R-CNN (Computer vision project)
 
 <p align="center">
