@@ -36,7 +36,7 @@ For more details about the preprocessing, follow this link (Chrieke Master thesi
 - The program_Project_Forafric file contains all the documented code lines to train the model, evaluate it and make agricultural fields predictions
 
 ### 2. How to execute !
-It is better to Use google colab, open the program_Project_Project_Forafric.ipynb folder and follow the instructions.
+Open the program_Project_Forafric.ipynb folder (you can use Google Colab) and follow the instructions.
  Also remember to replace the dataset file in the Agri/mrcnn folder with the one in the repo ("dataset.py").
 
 
