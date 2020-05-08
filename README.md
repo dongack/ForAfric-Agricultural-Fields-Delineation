@@ -23,3 +23,25 @@ In addition, the methodology offers many opportunities for improvement.
 
 <p align="center">
   <img width="350" src="images/bigresult.PNG">
+ </p>
+ 
+## Instructions
+### 1. File and Folder
+- The Construct_The_Dataset_ForafriPro folder, contains the notebook code needed to build 
+our Dataset as indicated in the preprint article. You can apply it to any RGB image with a shapefile containing the field geometries.
+For more details about the preprocessing, follow this link (Chrieke Master thesis - it is the main documentation for this project) : https://github.com/chrieke/InstanceSegmentation_Sentinel2
+
+-The "dataset.py" file contains the python code allowing the model to read our training data.
+
+-The program_Project_Forafric file contains all the documented code lines to train the model, evaluate it and make agricultural fields predictions
+
+### 2. How to execute !
+It is better to Use google colab, open the program_Project_Project_Forafric.ipynb folder and follow the instructions.
+ Also remember to replace the dataset file in the Agri/mrcnn folder with the one in the repo ("dataset.py").
+
+
+
+
+
+  
+  
