@@ -16,10 +16,10 @@ Overall, the results appear promising and would therefore prove the validity of 
 In addition, the methodology offers many opportunities for improvement.
 
 <p align="center">
-  <img width="300" src="images/train_predict.jpg">
+  <img width="500" src="images/train_predict.jpg">
 </p>
 
 ## Results
 
 <p align="center">
-  <img width="400" src="images/bigresult.PNG">
+  <img width="350" src="images/bigresult.PNG">
