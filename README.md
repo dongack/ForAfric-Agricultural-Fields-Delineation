@@ -2,7 +2,7 @@
 Instance Aware segmentation  of Agricultural Fields Using Mask R-CNN (Computer vision project)
 
 <p align="center">
-  <img width="800" src="images/agrifield2.jpg">
+  <img width="400" src="images/agrifield2.jpg">
 </p>
 
 ## Abstract
@@ -16,10 +16,10 @@ Overall, the results appear promising and would therefore prove the validity of 
 In addition, the methodology offers many opportunities for improvement.
 
 <p align="center">
-  <img width="650" src="images/train_predict.jpg">
+  <img width="300" src="images/train_predict.jpg">
 </p>
 
 ## Results
 
 <p align="center">
-  <img width="800" src="images/bigresult.PNG">
+  <img width="400" src="images/bigresult.PNG">
