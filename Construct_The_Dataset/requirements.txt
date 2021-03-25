@@ -13,4 +13,4 @@ easydict==1.9
 mxnet==1.4.1
 skimage==0.0
 typing==3.6.6
-PyYAML==5.1
+PyYAML==5.4
